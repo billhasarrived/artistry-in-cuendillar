@@ -1,0 +1,7 @@
+Left side
+<img src="---" width="170">
+
+Right side
+<img src="---" width="370">
+
+Possible need to shrink image by percentage depending on dimensions.
